@@ -1,6 +1,4 @@
-package StepAssignments;
-
-public class OOPSArrayInitialisation {
+public class UC5 {
     public static void main(String[] args) {
 
         for (int i = 0; i < 7; i++) {
